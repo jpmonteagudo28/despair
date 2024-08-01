@@ -2,11 +2,16 @@ Package: despair
 Title: What the Package Does (One Line, Title Case)
 Version: 0.0.0.9000
 Authors@R: 
-    person("First", "Last", , "first.last@example.com", role = c("aut", "cre"),
-           comment = c(ORCID = "YOUR-ORCID-ID"))
-Description: What the package does (one paragraph).
-License: `use_mit_license()`, `use_gpl3_license()` or friends to pick a
-    license
+    person("JP", "Monteagudo", 
+    email = "jpmonteagudo2014@gmail.com", 
+    role = c("aut", "cre"),
+           comment = c(ORCID = "0009-0003-6465-6658"))
+Maintainer: JP Monteagudo <jpmonteagudo2014@gmail.com>
+Description: This generates demotivation and motivational quotes that a user can consider for their personal projects, to mitigate the unavoidable sadness after long hours of coding, or to share with friends. The user can also supply a numeric or character seed to ensure reproducible results. 
+License: GPL (>= 3)
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.3.2
+LazyData: true
+URL: https://github.com/jpmonteagudo28/despair
+BugReports: https://github.com/jpmonteagudo28/despair/issues
