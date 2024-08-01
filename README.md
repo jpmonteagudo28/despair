@@ -1,27 +1,14 @@
----
-output: github_document
----
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
-```{r, include = FALSE}
-knitr::opts_chunk$set(
-  collapse = TRUE,
-  comment = "#>",
-  fig.path = "man/figures/README-",
-  out.width = "80%",
-  fig.align = "center",
-  warning = FALSE
-)
-```
-
 # Generation of bard bits and daily (de)motivational quotes for personal projects
 
+[![CRAN
+status](https://www.r-pkg.org/badges/version/despair)](https://CRAN.R-project.org/package=despair)
 
-[![CRAN status](https://www.r-pkg.org/badges/version/despair)](https://CRAN.R-project.org/package=despair)
-
-
-`despair` allows the user to create short bard bits inspired by Shakespeare's work and use daily (de)motivational quotes for personal use or to share with others.
+`despair` allows the user to create short bard bits inspired by
+Shakespeare’s work and use daily (de)motivational quotes for personal
+use or to share with others.
 
 ## Installation
 
@@ -30,16 +17,21 @@ You can install this package on CRAN
 ``` r
 install.packages("despair")
 ```
-You can also install the development version of this package through the `devtools` package.
-```r
+
+You can also install the development version of this package through the
+`devtools` package.
+
+``` r
 devtools::install_github("jpmonteagudo28/despair")
 ```
 
 ## Usage
 
-There are three basic functions in the package: `demotivate`, `motivate`, and `bard.bits`. Each function will take a category input and an optional numeric or character seed for reproducible results.
+There are three basic functions in the package: `demotivate`,
+`motivate`, and `bard.bits`. Each function will take a category input
+and an optional numeric or character seed for reproducible results.
 
-```{r example, eval=FALSE}
+``` r
 library(despair)
 
 #> Get info on package version 
@@ -67,4 +59,3 @@ bard.bits("character", seed = 123)
 bard.bits("character", seed = "stinky chihuahua")
 #> "lofty tranio"
 ```
-

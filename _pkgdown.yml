@@ -6,9 +6,9 @@ url: https://www.despair.jpmonteagudo.com
 template:
   bootstrap: 5
   bslib:
-    bg: "#84B4BF"
-    fg: "#F2E1C2"
-    primary: "#7C225C"
+    bg: "#D3D6D9"
+    fg: "#7C225C"
+    primary: "#1C588C"
     base_font: {google: "Fira Sans Condensed"}
     heading_font: {google: "Eagle Lake"}
     code_font: {google: "Fira Code"}
