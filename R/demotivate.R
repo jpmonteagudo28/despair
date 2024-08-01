@@ -71,5 +71,5 @@ demotivate <- function(cat = "any",
   if(cat == "family"){
     my_quote <- sample(family$values,1)
   }
-  return(cat(my_quote))
+  return(my_quote)
 }

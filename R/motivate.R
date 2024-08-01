@@ -71,5 +71,5 @@ motivate <- function(cat = "any",
   if(cat == "lit"){
     my_quote <- sample(lit$values,1)
   }
-  return(cat(my_quote))
+  return(my_quote)
 }

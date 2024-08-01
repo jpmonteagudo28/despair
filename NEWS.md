@@ -1,3 +1,3 @@
-# despair (development version)
+# despair 0.1.0
 
-* Initial CRAN submission.
+* Initial development release

@@ -1,3 +1,5 @@
+# Code for this function modified from package `codename` by Steven Miller under license GPL -2.
+
 #' Display package version for \pkg{despair}
 #'
 #' @description \code{despair.message()} produces a message about the package version

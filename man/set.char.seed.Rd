@@ -21,7 +21,7 @@ Each letter and number in the character vector is assigned a specific number. Th
 numbers are concatenated and divided by 2^39 - 1, and the remainder of this division
 is used as the numeric reproducible seed.
 
-If you get a warning about 'loss of accuracy", consider using a more succint character
+If you get a warning about 'loss of accuracy", consider using a more succinct character
 vector, otherwise you may get a seed of 0.
 }
 \examples{
@@ -34,3 +34,4 @@ set.char.seed("Manny said what?")
 \author{
 JP Monteagudo
 }
+\keyword{internals}

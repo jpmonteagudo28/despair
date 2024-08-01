@@ -6,5 +6,7 @@ if(getRversion() >= "2.15.1")
     # underlying data used for behind-the-scenes handsomeness
     c("family", "life", "lit", "modern",
       "psych", "rednecks", "religion", "science", "stoic",
-      "tv","work", "shake_nouns","shake_adjectives","shake_animals")
+      "tv","work","shake_adjectives","shake_animals",
+      "shake_things","shake_jobs","shake_chars","shake_clrs",
+      "dsm_5")
   )

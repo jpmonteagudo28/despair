@@ -7,7 +7,7 @@
 \format{
 a data frame with 13 observations and1 column
 \describe{
-\item{\code{value}}{a character vector}
+\item{\code{values}}{a character vector}
 }
 }
 \usage{

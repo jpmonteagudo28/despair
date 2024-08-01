@@ -4,7 +4,7 @@
 #'
 #' @format a data frame with 13 observations and1 column
 #' \describe{
-#' \item{\code{value}}{a character vector}
+#' \item{\code{values}}{a character vector}
 #' }
 #'
 "family"
@@ -15,7 +15,7 @@
 #'
 #' @format a data frame with 27 observations and 1 column
 #' \describe{
-#' \item{\code{value}}{a character vector}
+#' \item{\code{values}}{a character vector}
 #' }
 #'
 "life"
@@ -26,7 +26,7 @@
 #'
 #' @format a data frame with 22 observations and 1 column
 #' \describe{
-#' \item{\code{value}}{a character vector}
+#' \item{\code{values}}{a character vector}
 #' }
 #'
 "lit"
@@ -36,7 +36,7 @@
 #' This is a data frame of modern and contemporary historical and pop-culture icons used in  \code{motivate()}
 #' @format a data frame of with 40 observations and 1 column
 #' \describe{
-#' \item{\code{value}}{a character vector}
+#' \item{\code{values}}{a character vector}
 #' }
 #'
 "modern"
@@ -47,7 +47,7 @@
 #'
 #' @format a data frame with 34 observations and 1 column
 #' \describe{
-#' \item{\code{value}}{a character vector}
+#' \item{\code{values}}{a character vector}
 #' }
 #'
 "psych"
@@ -58,7 +58,7 @@
 #'
 #' @format a data frame with 21 observations and 1 column
 #' \describe{
-#' \item{\code{value}}{a character vector}
+#' \item{\code{values}}{a character vector}
 #' }
 #'
 "rednecks"
@@ -69,7 +69,7 @@
 #'
 #'@format a data frame with 45 observations and 1 column.
 #' \describe{
-#' \item{\code{value}}{a character vector}
+#' \item{\code{values}}{a character vector}
 #' }
 #'
 "religion"
@@ -80,7 +80,7 @@
 #'
 #' @format a data frame of 27 observations and 1 column.
 #' \describe{
-#' \item{\code{value}}{a character vector}
+#' \item{\code{values}}{a character vector}
 #' }
 #'
 "science"
@@ -91,7 +91,7 @@
 #'
 #' @format a data frame with 32 observations and 1 column.
 #' \describe{
-#' \item{\code{value}}{a character vector}
+#' \item{\code{values}}{a character vector}
 #' }
 #'
 "stoic"
@@ -102,7 +102,7 @@
 #'
 #' @format a data frame with 23 observations and 1 column
 #' \describe{
-#' \item{\code{value}}{a character vector}
+#' \item{\code{values}}{a character vector}
 #' }
 #'
 "tv"
@@ -113,7 +113,84 @@
 #'
 #' @format a data frame with 31 observations and 1 column
 #' \describe{
-#' \item{\code{value}}{a character vector}
+#' \item{\code{values}}{a character vector}
 #' }
 #'
 "work"
+
+#' A data frame of Shakespeare's characters
+#'
+#' This is a data frame of Shakespeare's characters
+#'
+#' @format a data frame with 137 observations and 1 column
+#' \describe{
+#' \item{\code{values}}{a character vector}
+#' }
+#'
+"shake_chars"
+
+#' A data frame of Shakespeare's adjectives
+#'
+#' This is a data frame of adjectives used in Shakespeare's works.
+#'
+#' @format a data frame with 100 observations and 1 column
+#' \describe{
+#' \item{\code{values}}{a character vector}
+#' }
+#'
+"shake_adjectives"
+
+#' A data frame of Shakespeare's animals
+#'
+#' This is a data frame of animals used in Shakespeare's works
+#'
+#' @format a data frame with 150 observations and 1 column
+#' \describe{
+#' \item{\code{values}}{a character vector}
+#' }
+#'
+"shake_animals"
+
+#' A data frame of Shakespeare and unusual colors
+#'
+#' This is a data frame of colors used in Shakespeare's work and other unusual colors
+#'
+#' @format a data frame with 300 observations and 1 column
+#' \describe{
+#' \item{\code{values}}{a character vector}
+#' }
+#'
+"shake_clrs"
+
+#' A data frame of Shakespeare's jobs
+#'
+#' This is a data frame of professions used in Shakespeare's works.
+#'
+#' @format a data frame with 103 observations and 1 column
+#' \describe{
+#' \item{\code{values}}{a character vector}
+#' }
+#'
+"shake_jobs"
+
+#' A data frame of Shakespeare's objects
+#'
+#' This is a data frame of objects used in Shakespeare's works.
+#'
+#' @format a data frame with 150 observations and 1 column
+#' \describe{
+#' \item{\code{values}}{a character vector}
+#' }
+#'
+"shake_things"
+
+#' A data frame of DSM-5 adjectives
+#'
+#' This is a data frame of adjectives used in the DSM-5 to describe mental states
+#'
+#' @format a data frame with 150 observations and 1 column
+#' \describe{
+#' \item{\code{values}}{a character vector}
+#' }
+#'
+"dsm_5"
