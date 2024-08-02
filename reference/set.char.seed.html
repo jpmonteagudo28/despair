@@ -59,7 +59,7 @@ seed</p>
     <div class="section level2">
     <h2 id="details">Details<a class="anchor" aria-label="anchor" href="#details"></a></h2>
     <p>Each letter and number in the character vector is assigned a specific number. These
-numbers are concatenated and divided by 2^39 - 1, and the remainder of this division
+numbers are concatenated and divided by 2^30 - 1, and the remainder of this division
 is used as the numeric reproducible seed.</p>
 <p>If you get a warning about 'loss of accuracy", consider using a more succinct character
 vector, otherwise you may get a seed of 0.</p>
@@ -72,11 +72,11 @@ vector, otherwise you may get a seed of 0.</p>
     <div class="section level2">
     <h2 id="ref-examples">Examples<a class="anchor" aria-label="anchor" href="#ref-examples"></a></h2>
     <div class="sourceCode"><pre class="sourceCode r"><code><span class="r-in"><span><span class="fu">set.char.seed</span><span class="op">(</span><span class="st">"The Sticky Chicken"</span><span class="op">)</span></span></span>
-<span class="r-out co"><span class="r-pr">#&gt;</span> [1] 1246855168</span>
+<span class="r-out co"><span class="r-pr">#&gt;</span> [1] 258156544</span>
 <span class="r-in"><span><span class="fu">set.char.seed</span><span class="op">(</span><span class="st">"lanky tadpole"</span><span class="op">)</span></span></span>
-<span class="r-out co"><span class="r-pr">#&gt;</span> [1] 744694353</span>
+<span class="r-out co"><span class="r-pr">#&gt;</span> [1] 1017058471</span>
 <span class="r-in"><span><span class="fu">set.char.seed</span><span class="op">(</span><span class="st">"Manny said what?"</span><span class="op">)</span></span></span>
-<span class="r-out co"><span class="r-pr">#&gt;</span> [1] 577295946</span>
+<span class="r-out co"><span class="r-pr">#&gt;</span> [1] 241593498</span>
 <span class="r-in"><span></span></span>
 <span class="r-in"><span></span></span>
 </code></pre></div>
