@@ -1,6 +1,6 @@
 Package: despair
 Title: Motivational Quotes and Shakespearean Bard–bits for Personal Projects
-Version: 0.2.0
+Version: 0.1.0
 Authors@R: 
     person("JP", "Monteagudo", 
     email = "jpmonteagudo2014@gmail.com", 
