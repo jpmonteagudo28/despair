@@ -1,8 +1,6 @@
-home:
-  title: An R package for (de)motivation and bard–bis generation
-  description: (de)motivational quotes and Shakespearian word combintations (bard–bits) to mitigate the unavoidable sadness after long hours of coding.
-
 url: https://www.despair.jpmonteagudo.com
+
+
 template:
   bootstrap: 5
   bslib:
