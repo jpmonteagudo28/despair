@@ -67,7 +67,7 @@
 #'
 #'This is a data frame of religiously-inspired motivational quotes to be used in \code{motivate()}
 #'
-#'@format a data frame with 45 observations and 1 column.
+#' @format a data frame with 45 observations and 1 column.
 #' \describe{
 #' \item{\code{values}}{a character vector}
 #' }

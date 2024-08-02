@@ -22,7 +22,7 @@ numbers are concatenated and divided by 2^30 - 1, and the remainder of this divi
 is used as the numeric reproducible seed.
 
 If you get a warning about 'loss of accuracy", consider using a more succinct character
-vector, otherwise you may get a seed of 0.
+vector, otherwise you will get a seed of 0.
 }
 \examples{
 set.char.seed("The Sticky Chicken")

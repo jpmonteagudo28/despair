@@ -12,7 +12,7 @@
 #' is used as the numeric reproducible seed.
 #'
 #' If you get a warning about 'loss of accuracy", consider using a more succinct character
-#' vector, otherwise you may get a seed of 0.
+#' vector, otherwise you will get a seed of 0.
 #'
 #' @param char a character vector
 #' @return \code{set.char.seed()} takes a character vector and returns a reproducible seed.
