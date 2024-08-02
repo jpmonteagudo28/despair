@@ -1,14 +1,15 @@
 
-<!-- README.md is generated from README.Rmd. Please edit that file -->
-
-# Generation of bard bits and daily (de)motivational quotes for personal projects
+# despair <a href="https://www.despair.jpmonteagudo.com"><img src="man/figures/logo.png" align="right" height="120" alt="despair website" /></a>
 
 [![CRAN
 status](https://www.r-pkg.org/badges/version/despair)](https://CRAN.R-project.org/package=despair)
 
-`despair` allows the user to create short bard bits inspired by
-Shakespeare’s work and use daily (de)motivational quotes for personal
-use or to share with others.
+# Overview
+
+`despair` is a package inspired by Shakespeare’s work and his well-known
+pessimism. It allows the user to create short, clever codes called
+bard–bits inspired by Shakespeare’s work and use daily (de)motivational
+quotes for personal use or to share with others.
 
 ## Installation
 
