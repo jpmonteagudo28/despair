@@ -2,7 +2,7 @@
 output: github_document
 ---
 
-# despair <a href="https://www.despair.jpmonteagudo.com"><img src="man/figures/logo.png" align="right" height="120" alt="despair website" /></a>
+# despair <a href="https://despair.jpmonteagudo.com"><img src="man/figures/logo.png" align="right" height="120" alt="despair website" /></a>
 
 
 ```{r, include = FALSE}
@@ -15,8 +15,6 @@ knitr::opts_chunk$set(
   warning = FALSE
 )
 ```
-
-[![CRAN status](https://www.r-pkg.org/badges/version/despair)](https://CRAN.R-project.org/package=despair)
 
 # Overview
 
@@ -36,7 +34,7 @@ devtools::install_github("jpmonteagudo28/despair")
 
 ## Usage
 
-There are three basic functions in the package: `demotivate`, `motivate`, and `bard.bits`. Each function will take a category input and an optional numeric or character seed for reproducible results.
+There are three basic functions in the package: demotivate, motivate, and bard.bits. Each function will take a category input and an optional numeric or character seed for reproducible results.
 
 ```{r example, eval=FALSE}
 library(despair)

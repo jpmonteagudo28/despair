@@ -1,8 +1,5 @@
 
-# despair <a href="https://www.despair.jpmonteagudo.com"><img src="man/figures/logo.png" align="right" height="120" alt="despair website" /></a>
-
-[![CRAN
-status](https://www.r-pkg.org/badges/version/despair)](https://CRAN.R-project.org/package=despair)
+# despair <a href="https://despair.jpmonteagudo.com"><img src="man/figures/logo.png" align="right" height="120" alt="despair website" /></a>
 
 # Overview
 
@@ -28,9 +25,9 @@ devtools::install_github("jpmonteagudo28/despair")
 
 ## Usage
 
-There are three basic functions in the package: `demotivate`,
-`motivate`, and `bard.bits`. Each function will take a category input
-and an optional numeric or character seed for reproducible results.
+There are three basic functions in the package: demotivate, motivate,
+and bard.bits. Each function will take a category input and an optional
+numeric or character seed for reproducible results.
 
 ``` r
 library(despair)
