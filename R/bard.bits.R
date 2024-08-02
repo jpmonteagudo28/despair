@@ -5,21 +5,21 @@
 #' 'The Bard of Avon' and the bits ( Shakespeare's characters, places, professions) used to come up with coherent combinations.
 #'
 #' @details
-#' When the category is 'any' (the default), the function combines Shakespeare's adjectives,
+#' When the category is "any" (the default), the function combines Shakespeare's adjectives,
 #' DSM-5 adjectives, colors and the characters, jobs, animals and things data frames
 #' to then sample one adjective and one noun from each of the two combinations.
 #'
-#' When the category is 'alliterate', the function combines the adjectives and colors
+#' When the category is "alliterate", the function combines the adjectives and colors
 #' data frames and the animals and characters data frame. After an adjective is selected,
 #' the first letter will be used to match against a noun.
 #'
-#' When the category is 'character', the function will derive a bard bit from a data frame of Shakespeare's
+#' When the category is "character", the function will derive a bard bit from a data frame of Shakespeare's
 #' characters and the adjectives data frame.
 #'
-#' When the category is 'jobs', the function will derive a bard bit from the adjectives and colors data frame
+#' When the category is "jobs", the function will derive a bard bit from the adjectives and colors data frame
 #' and sample one value from the Shakespeare's jobs data frame.
 #'
-#' When the category is 'dsm_5', the function will derive a bard bit from the combined jobs,
+#' When the category is "dsm_5", the function will derive a bard bit from the combined jobs,
 #' characters, animals and the DSM-5 adjectives data frame.
 #'
 #' @param cat a category to be used as bard–bit. Defaults to "any", but "character",

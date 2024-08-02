@@ -4,8 +4,8 @@
 #' \code{motivate()} is a tool to lift up even the unmotivated individual.
 #' Use with caution and remember— DO take it personally.
 #'
-#' @param cat a motivational category to choose from. The function defaults to 'any'.
-#' @param seed a numeric or character seed for reproducible results. The function defaults to 'NULL'.
+#' @param cat a motivational category to choose from. The function defaults to "any".
+#' @param seed a numeric or character seed for reproducible results. The function defaults to "NULL".
 #'
 #' @return \code{motivate()} takes a preferred category and an optional reproducible seed
 #' to return a motivational quote for the user to feel better at any given time.

@@ -7,9 +7,9 @@
 motivate(cat = "any", seed)
 }
 \arguments{
-\item{cat}{a motivational category to choose from. The function defaults to 'any'.}
+\item{cat}{a motivational category to choose from. The function defaults to "any".}
 
-\item{seed}{a numeric or character seed for reproducible results. The function defaults to 'NULL'.}
+\item{seed}{a numeric or character seed for reproducible results. The function defaults to "NULL".}
 }
 \value{
 \code{motivate()} takes a preferred category and an optional reproducible seed

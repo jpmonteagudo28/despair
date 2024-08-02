@@ -5,7 +5,7 @@
 
 `despair` is a package inspired by Shakespeare’s work and his well-known
 pessimism. It allows the user to create short, clever codes called
-bard–bits inspired by Shakespeare’s work and use daily (de)motivational
+bard–bits inspired by Shakespeare’s work and use daily demotivational
 quotes for personal use or to share with others.
 
 ## Installation

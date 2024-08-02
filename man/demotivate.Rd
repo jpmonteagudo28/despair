@@ -23,7 +23,7 @@ Use with caution and remember to not take it personally.
 When cat is 'any' (default), the function combines all category data frames and then
 samples from the new,combined data frame.
 
-There are a total of six categories: family, life, work, science, tv, and rednecks.
+There are a total of six categories: family, life, work, science, TV, and rednecks.
 When a specific category is chosen the function will sample from a demotivational quote data
 frame and output a random quote for your spiritual and mental decay.
 }
