@@ -7,7 +7,7 @@ Authors@R:
     role = c("aut", "cre", "cph"),
     comment = c(ORCID = "0009-0003-6465-6658"))
 Maintainer: JP Monteagudo <jpmonteagudo2014@gmail.com>
-Description: Generate (de)motivational quotes and Shakespearian word combintations (bard–bits) that a user can consider for their personal projects. Each of the package functions takes two arguments, cat which default to any, and a a numeric or character seed to ensure reproducible results. 
+Description: Generate (de)motivational quotes and Shakespearean word combinations (bard–bits) that a user can consider for their personal projects. Each of the package functions takes two arguments, cat which default to any, and a a numeric or character seed to ensure reproducible results. 
 License: GPL (>= 3)
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)

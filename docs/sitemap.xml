@@ -1,90 +1,32 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url>
-    <loc>https://www.despair.jpmonteagudo.com/404.html</loc>
-  </url>
-  <url>
-    <loc>https://www.despair.jpmonteagudo.com/authors.html</loc>
-  </url>
-  <url>
-    <loc>https://www.despair.jpmonteagudo.com/index.html</loc>
-  </url>
-  <url>
-    <loc>https://www.despair.jpmonteagudo.com/LICENSE.html</loc>
-  </url>
-  <url>
-    <loc>https://www.despair.jpmonteagudo.com/news/index.html</loc>
-  </url>
-  <url>
-    <loc>https://www.despair.jpmonteagudo.com/reference/bard.bits.html</loc>
-  </url>
-  <url>
-    <loc>https://www.despair.jpmonteagudo.com/reference/demotivate.html</loc>
-  </url>
-  <url>
-    <loc>https://www.despair.jpmonteagudo.com/reference/despair.message.html</loc>
-  </url>
-  <url>
-    <loc>https://www.despair.jpmonteagudo.com/reference/dsm_5.html</loc>
-  </url>
-  <url>
-    <loc>https://www.despair.jpmonteagudo.com/reference/family.html</loc>
-  </url>
-  <url>
-    <loc>https://www.despair.jpmonteagudo.com/reference/index.html</loc>
-  </url>
-  <url>
-    <loc>https://www.despair.jpmonteagudo.com/reference/life.html</loc>
-  </url>
-  <url>
-    <loc>https://www.despair.jpmonteagudo.com/reference/lit.html</loc>
-  </url>
-  <url>
-    <loc>https://www.despair.jpmonteagudo.com/reference/modern.html</loc>
-  </url>
-  <url>
-    <loc>https://www.despair.jpmonteagudo.com/reference/motivate.html</loc>
-  </url>
-  <url>
-    <loc>https://www.despair.jpmonteagudo.com/reference/psych.html</loc>
-  </url>
-  <url>
-    <loc>https://www.despair.jpmonteagudo.com/reference/rednecks.html</loc>
-  </url>
-  <url>
-    <loc>https://www.despair.jpmonteagudo.com/reference/religion.html</loc>
-  </url>
-  <url>
-    <loc>https://www.despair.jpmonteagudo.com/reference/science.html</loc>
-  </url>
-  <url>
-    <loc>https://www.despair.jpmonteagudo.com/reference/set.char.seed.html</loc>
-  </url>
-  <url>
-    <loc>https://www.despair.jpmonteagudo.com/reference/shake_adjectives.html</loc>
-  </url>
-  <url>
-    <loc>https://www.despair.jpmonteagudo.com/reference/shake_animals.html</loc>
-  </url>
-  <url>
-    <loc>https://www.despair.jpmonteagudo.com/reference/shake_chars.html</loc>
-  </url>
-  <url>
-    <loc>https://www.despair.jpmonteagudo.com/reference/shake_clrs.html</loc>
-  </url>
-  <url>
-    <loc>https://www.despair.jpmonteagudo.com/reference/shake_jobs.html</loc>
-  </url>
-  <url>
-    <loc>https://www.despair.jpmonteagudo.com/reference/shake_things.html</loc>
-  </url>
-  <url>
-    <loc>https://www.despair.jpmonteagudo.com/reference/stoic.html</loc>
-  </url>
-  <url>
-    <loc>https://www.despair.jpmonteagudo.com/reference/tv.html</loc>
-  </url>
-  <url>
-    <loc>https://www.despair.jpmonteagudo.com/reference/work.html</loc>
-  </url>
+<urlset xmlns = 'http://www.sitemaps.org/schemas/sitemap/0.9'>
+<url><loc>https://despair.jpmonteagudo.com/404.html</loc></url>
+<url><loc>https://despair.jpmonteagudo.com/authors.html</loc></url>
+<url><loc>https://despair.jpmonteagudo.com/index.html</loc></url>
+<url><loc>https://despair.jpmonteagudo.com/LICENSE.html</loc></url>
+<url><loc>https://despair.jpmonteagudo.com/news/index.html</loc></url>
+<url><loc>https://despair.jpmonteagudo.com/reference/bard.bits.html</loc></url>
+<url><loc>https://despair.jpmonteagudo.com/reference/demotivate.html</loc></url>
+<url><loc>https://despair.jpmonteagudo.com/reference/despair.message.html</loc></url>
+<url><loc>https://despair.jpmonteagudo.com/reference/dsm_5.html</loc></url>
+<url><loc>https://despair.jpmonteagudo.com/reference/family.html</loc></url>
+<url><loc>https://despair.jpmonteagudo.com/reference/index.html</loc></url>
+<url><loc>https://despair.jpmonteagudo.com/reference/life.html</loc></url>
+<url><loc>https://despair.jpmonteagudo.com/reference/lit.html</loc></url>
+<url><loc>https://despair.jpmonteagudo.com/reference/modern.html</loc></url>
+<url><loc>https://despair.jpmonteagudo.com/reference/motivate.html</loc></url>
+<url><loc>https://despair.jpmonteagudo.com/reference/psych.html</loc></url>
+<url><loc>https://despair.jpmonteagudo.com/reference/rednecks.html</loc></url>
+<url><loc>https://despair.jpmonteagudo.com/reference/religion.html</loc></url>
+<url><loc>https://despair.jpmonteagudo.com/reference/science.html</loc></url>
+<url><loc>https://despair.jpmonteagudo.com/reference/set.char.seed.html</loc></url>
+<url><loc>https://despair.jpmonteagudo.com/reference/shake_adjectives.html</loc></url>
+<url><loc>https://despair.jpmonteagudo.com/reference/shake_animals.html</loc></url>
+<url><loc>https://despair.jpmonteagudo.com/reference/shake_chars.html</loc></url>
+<url><loc>https://despair.jpmonteagudo.com/reference/shake_clrs.html</loc></url>
+<url><loc>https://despair.jpmonteagudo.com/reference/shake_jobs.html</loc></url>
+<url><loc>https://despair.jpmonteagudo.com/reference/shake_things.html</loc></url>
+<url><loc>https://despair.jpmonteagudo.com/reference/stoic.html</loc></url>
+<url><loc>https://despair.jpmonteagudo.com/reference/tv.html</loc></url>
+<url><loc>https://despair.jpmonteagudo.com/reference/work.html</loc></url>
 </urlset>
+

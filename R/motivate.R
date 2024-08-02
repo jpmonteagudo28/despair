@@ -17,7 +17,7 @@
 #' When cat is 'any' (default), the function combines all category data frames and then
 #' samples from the new,combined data frame.
 #'
-#' There are a total of five categories: psych, stoic, religion, literature(lit), and modern (history)
+#' There are a total of five categories: psych, stoic, religion, lit(literature), and modern (history)
 #' When a specific category is chosen the function will sample from a motivational quote data
 #' frame and output a random quote for your spiritual and mental growth.
 #'
