@@ -8,7 +8,7 @@
 #'
 #' @details
 #' Each letter and number in the character vector is assigned a specific number. These
-#' numbers are concatenated and divided by 2^39 - 1, and the remainder of this division
+#' numbers are concatenated and divided by 2^30 - 1, and the remainder of this division
 #' is used as the numeric reproducible seed.
 #'
 #' If you get a warning about 'loss of accuracy", consider using a more succinct character
@@ -40,7 +40,7 @@ set.char.seed <- function(char) {
   num_seed <- as.numeric(paste(split_it, collapse=""))
   num_seed
 
-  seed <- as.integer( num_seed %% (2^31-1) )
+  seed <- as.integer( num_seed %% (2^30-1) )
   return(seed)
 }
 
