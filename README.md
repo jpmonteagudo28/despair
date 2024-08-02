@@ -1,5 +1,5 @@
 
-# despair <a href="https://despair.jpmonteagudo.com"><img src="man/figures/logo.png" align="right" height="120" alt="despair website" /></a>
+# despair
 
 # Overview
 
