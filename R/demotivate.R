@@ -41,6 +41,7 @@ demotivate <- function(cat = "any",
 
     set.seed(NULL)
   } else {
+
     if (is.numeric(seed)){
       set.seed(seed)
     }

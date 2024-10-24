@@ -1,5 +1,12 @@
 
-# despair
+# despair <img src="man/figures/logo.png" align="right" height="165"/>
+
+<!----badges: start --------->
+
+[![](https://cranlogs.r-pkg.org/badges/despair)](https://cran.r-project.org/package=despair)
+[![CRAN
+status](https://www.r-pkg.org/badges/version/despair)](https://CRAN.R-project.org/package=despair)
+<!-- badges: end -->
 
 # Overview
 
