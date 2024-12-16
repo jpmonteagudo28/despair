@@ -40,14 +40,15 @@ motivate <- function(cat = "any",
                    valid_cats,
                    several.ok = FALSE)
 
-  if(missing(seed)){
+  if (missing(seed)) {
 
     set.seed(NULL)
+
   } else {
-    if (is.numeric(seed)){
-      set.seed(seed)
+    if (!is.numeric(seed)) {
+
+      seed <- set.char.seed(seed)
     }
-    seed <- set.char.seed(seed)
     set.seed(seed)
   }
 
